@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  overflow: hidden;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 4rem;
+}
+.page a {
+  padding: 8px 20px;
+  background-color: black;
+  text-emphasis: none;
+  color: white;
+  border-radius: 5px;
+}
+#page-1 {
+  background: url(mongolian-pictures-ahi2o24fhvpw6pdv.jpg) no-repeat center
+    center/cover;
+}
+#page-2 {
+  background: url(bayars-top-10-places-in-mongolia-for-landscape-photography-blog-cover.jpg)
+    no-repeat center center/cover;
+}
+#page-3 {
+  background: url(khovsgol\ national\ park\ mongolia.jpg) no-repeat center
+    center/cover;
+}
+#page-4 {
+  background: url(0000_Mongolia_Ger_Camp_2164_1445_70_s_c1.jpg) no-repeat center
+    center/cover;
+}
+#page-5 {
+  background: url(terelj-national-park.jpg) no-repeat center center/cover;
+}
